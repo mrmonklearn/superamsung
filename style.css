@@ -1,0 +1,404 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.needuptabankur{
+    width:2001px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logosize{
+    width: 200px;
+}
+
+.uptabankur {
+  background: linear-gradient(
+    39deg,
+    rgb(0 96 140) 0%,
+    rgb(24 28 29) 14%,
+    rgb(0 56 78) 100%,
+    rgb(33 88 108) 100%
+  );
+  color: white;
+}
+
+.topnavtibbad {
+  width: 600px;
+  font-weight: 700;
+  padding: 15px 0 0 446px;
+}
+
+.navbtntibbad {
+  margin: 0 0 0 60px;
+  padding: 19px 0 0 0;
+  font-size: 18px;
+}
+
+.abar {
+  background: linear-gradient(
+    0deg,
+    rgb(201 201 201) 0%,
+    rgb(166 166 166) -1%,
+    rgba(219, 219, 219, 1) 56%,
+    rgba(151, 151, 151, 1) 100%
+  );
+  height: 41px;
+}
+
+.lefttibbad {
+  background: linear-gradient(
+    39deg,
+    rgb(0 96 140) 0%,
+    rgb(24 28 29) 14%,
+    rgb(0 56 78) 100%,
+    rgb(33 88 108) 100%
+  );
+  margin: 25px 0 40px 0;
+  border-radius: 8px;
+  height: 400px;
+  padding: 44px;
+  font-family: math;
+  color: white;
+  font-size: 40px;
+}
+
+.proryt {
+  background: #cecece;
+  margin: 28px 0 0 18px;
+  padding: 10px;
+  height: 283px;
+}
+
+.proright {
+  background: rgb(200, 83, 56);
+  background: linear-gradient(
+    142deg,
+    rgba(200, 83, 56, 1) 0%,
+    rgba(191, 111, 20, 1) 26%,
+    rgba(215, 143, 127, 1) 65%,
+    rgba(200, 83, 56, 1) 100%
+  );
+  margin: 17px 0px 0 19px;
+  width: 610px;
+  color: white;
+  height: 93px;
+  border-radius: 12px;
+  font-weight: 800;
+}
+
+.shpnbtn {
+  font-size: 31px;
+  margin: 29px 0 0 0;
+  width: 262px;
+  font-weight: 900;
+  border: 2px solid;
+}
+
+.scsn2 {
+  background-color: #e8e8e8;
+  /* height: 450px; */
+  margin: 0 0 50px 0;
+}
+
+.foottibbad {
+  padding: 10px;
+  background-color: black;
+  color: white;
+  height: 280px;
+}
+
+.privacytib {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.privacytib:hover {
+  color: #c85338;
+}
+
+.outsidelogo{
+    padding: 0 55px;
+}
+
+.secondsec{
+
+}
+
+/* starts 2001 */
+
+@media only screen and (min-width: 2001px) {
+
+    .logosize {
+        width: 310px;
+    }
+
+    .topnavtibbad {
+        width: 900px;
+        font-weight: 700;
+        padding: 15px 0 0 0;
+        margin: 0px 0 0 580px;
+    }
+
+    .navbtntibbad {
+        margin: 0px 0 0 81px;
+        padding: 13px 0 0 0;
+        font-size: 29px;
+    }
+    .secondsec {
+        width: 1700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .lefttibbad {
+        background: linear-gradient( 39deg, rgb(0 96 140) 0%, rgb(24 28 29) 14%, rgb(0 56 78) 100%, rgb(33 88 108) 100% );
+        margin: 25px 0 40px 0;
+        border-radius: 8px;
+        height: 483px;
+        padding: 44px;
+        font-family: math;
+        color: white;
+        font-size: 40px;
+    }
+}
+
+/* starts 1940 */
+
+@media only screen and (min-width: 1940px) and (max-width: 2000px){
+    
+    .logosize {
+        width: 309px;
+        margin-left: 38px;
+    }
+
+    .needuptabankur {
+        width: 1940px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .topnavtibbad {
+        width: 900px;
+        font-weight: 700;
+        padding: 15px 0 0 0;
+        margin: 18px 0 0 396px;
+    }
+
+    .navbtntibbad {
+        margin: 0px 0 0 81px;
+        padding: 13px 0 0 0;
+        font-size: 29px;
+    }
+    .secondsec {
+        width: 1700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .lefttibbad {
+        background: linear-gradient( 39deg, rgb(0 96 140) 0%, rgb(24 28 29) 14%, rgb(0 56 78) 100%, rgb(33 88 108) 100% );
+        margin: 25px 0 40px 0;
+        border-radius: 8px;
+        height: 483px;
+        padding: 44px;
+        font-family: math;
+        color: white;
+        font-size: 40px;
+    }
+
+}
+
+/* starts1880 */
+
+@media only screen and (min-width: 1880px) and (max-width: 1940px){
+    
+    .logosize {
+        width: 309px;
+        margin-left: 38px;
+    }
+
+    .needuptabankur {
+        width: 1940px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .topnavtibbad {
+        width: 900px;
+        font-weight: 700;
+        padding: 15px 0 0 0;
+        margin: 18px 0 0 396px;
+    }
+
+    .navbtntibbad {
+        margin: 0px 0 0 81px;
+        padding: 13px 0 0 0;
+        font-size: 29px;
+    }
+    .secondsec {
+        width: 1700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .lefttibbad {
+        background: linear-gradient( 39deg, rgb(0 96 140) 0%, rgb(24 28 29) 14%, rgb(0 56 78) 100%, rgb(33 88 108) 100% );
+        margin: 25px 0 40px 0;
+        border-radius: 8px;
+        height: 483px;
+        padding: 44px;
+        font-family: math;
+        color: white;
+        font-size: 40px;
+    }
+
+}
+
+/* starts 1820 */
+
+@media only screen and (min-width: 1820px) and (max-width: 1880px){
+    
+    .logosize {
+        width: 309px;
+        margin-left: 38px;
+    }
+
+    .needuptabankur {
+        width: 1820px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .topnavtibbad {
+        width: 900px;
+        font-weight: 700;
+        padding: 15px 0 0 0;
+        margin: 18px 0 0 396px;
+    }
+
+    .navbtntibbad {
+        margin: 0px 0 0 81px;
+        padding: 13px 0 0 0;
+        font-size: 29px;
+    }
+    .secondsec {
+        width: 1700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .lefttibbad {
+        background: linear-gradient( 39deg, rgb(0 96 140) 0%, rgb(24 28 29) 14%, rgb(0 56 78) 100%, rgb(33 88 108) 100% );
+        margin: 25px 0 40px 0;
+        border-radius: 8px;
+        height: 483px;
+        padding: 44px;
+        font-family: math;
+        color: white;
+        font-size: 40px;
+    }
+
+}
+
+/* starts 1760 */
+
+@media only screen and (min-width: 1760px) and (max-width: 1820px){
+    
+    .logosize {
+        width: 309px;
+        margin-left: 38px;
+    }
+    
+    .needuptabankur {
+        width: 1760px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .topnavtibbad {
+        width: 900px;
+        font-weight: 700;
+        padding: 15px 0 0 0;
+        margin: 18px 0 0 396px;
+    }
+    
+    .navbtntibbad {
+        margin: 0px 0 0 81px;
+        padding: 13px 0 0 0;
+        font-size: 29px;
+    }
+    .secondsec {
+        width: 1700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .lefttibbad {
+        background: linear-gradient( 39deg, rgb(0 96 140) 0%, rgb(24 28 29) 14%, rgb(0 56 78) 100%, rgb(33 88 108) 100% );
+        margin: 25px 0 40px 0;
+        border-radius: 8px;
+        height: 483px;
+        padding: 44px;
+        font-family: math;
+        color: white;
+        font-size: 40px;
+    }
+    
+}
+
+
+/* starts 1700 */
+@media only screen and (min-width: 1700px) and (max-width: 1760px){}
+/* starts 1640 */
+@media only screen and (min-width: 1640px) and (max-width: 1700px){}
+/* starts 1580 */
+@media only screen and (min-width: 1580px) and (max-width: 1640px){}
+/* starts 1520 */
+@media only screen and (min-width: 1520px) and (max-width: 1580px){}
+/* starts 1460 */
+@media only screen and (min-width: 1460px) and (max-width: 1520px){}
+/* starts 1400 */
+@media only screen and (min-width: 1400px) and (max-width: 1460px){}
+/* starts 1340 */
+@media only screen and (min-width: 1340px) and (max-width: 1400){}
+/* starts 1280 */
+@media only screen and (min-width: 1280px) and (max-width: 1340px){}
+/* starts 1220 */
+@media only screen and (min-width: 1220px) and (max-width: 1280px){}
+/* starts 1160 */
+@media only screen and (min-width: 1160px) and (max-width: 1220px){}
+/* starts 1100 */
+@media only screen and (min-width: 1100px) and (max-width: 1160px){}
+/* starts 1040 */
+@media only screen and (min-width: 1040px) and (max-width: 1100px){}
+/* starts 980 */
+@media only screen and (min-width: 980px) and (max-width: 1040px){}
+/* starts 920 */
+@media only screen and (min-width: 920px) and (max-width: 980px){}
+/* starts 860 */
+@media only screen and (min-width: 860px) and (max-width: 920px){}
+/* starts 800 */
+@media only screen and (min-width: 800px) and (max-width: 860px){}
+/* starts 740 */
+@media only screen and (min-width: 740px) and (max-width: 800px){}
+/* starts 680 */
+@media only screen and (min-width: 680px) and (max-width: 740px){}
+/* starts 620 */
+@media only screen and (min-width: 620px) and (max-width: 680px){}
+/* starts 560 */
+@media only screen and (min-width: 560px) and (max-width: 620px){}
+/* starts 500 */
+@media only screen and (min-width: 500px) and (max-width: 560px){}
+/* starts 440 */
+@media only screen and (min-width: 440px) and (max-width: 500px){}
+/* starts 380 */
+@media only screen and (min-width: 380px) and (max-width: 440px){}
+/* starts 320 */
+@media only screen and (min-width: 320px) and (max-width: 380px){}
+/* starts 260 */
+@media only screen and (min-width: 260px) and (max-width: 320px){}
+/* starts 200 */
+@media only screen and (min-width: 200px) and (max-width: 260px){}
